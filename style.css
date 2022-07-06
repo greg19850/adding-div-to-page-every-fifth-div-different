@@ -20,7 +20,8 @@ button {
     border: 2px dashed;
 }
 
-section>div {
+div {
+    float: left;
     margin: 10px;
     height: 100px;
     width: 100px;
